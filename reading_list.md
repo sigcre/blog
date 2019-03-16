@@ -98,6 +98,7 @@ permalink: /reading_list/
     Learning》（OSDI'18）[usenix](https://homes.cs.washington.edu/~patelp1/papers/gandiva-osdi18.pdf)
   - 《Topology-aware GPU scheduling for learning workloads in cloud
     environments》（SC'17）[acm](https://dl.acm.org/citation.cfm?id=3126933)
+  - 《Tiresias: A GPU Cluster Manager for Distributed Deep Learning》（NSDI'19）[usenix](https://www.usenix.org/system/files/nsdi19-gu.pdf) [slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_gu.pdf)
   - [ A
     List](https://github.com/gaocegege/papers-notebook/labels/area%2Flarge-scale-ml%20)
 
