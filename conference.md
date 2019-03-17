@@ -13,10 +13,10 @@ permalink: /conference/
 - [ICDCS'2019](https://theory.utdallas.edu/ICDCS2019/cfp.html) (January 12, 2019)
 - [ATC'19](https://www.usenix.org/conference/atc19/) (January 10, 2019)
 - [ISCA'19](https://iscaconf.org/isca2019/index.html) (December 7, 2018)
-- [ASPLOS'19](https://asplos-conference.org/) (August 7, 2018)
 
 ### Past
 
-- [NSDI'19](https://www.usenix.org/conference/nsdi19)
+- [ASPLOS'19](https://asplos-conference.org/program)
+- [NSDI'19](https://www.usenix.org/conference/nsdi19/technical-sessions)
 - [Eurosys'19](https://www.eurosys2019.org/program/accepted-papers/)
 - [OSDI'18](https://www.usenix.org/conference/osdi18/technical-sessions)
