@@ -10,7 +10,7 @@ permalink: /conference/
 - [SOCC'19](https://acmsocc.github.io/2019/) (June 3, 2019)
 - [Middleware'19](http://2019.middleware-conference.org/research.html)（May 10, 2019）
 - [SOSP'19](https://sosp19.rcs.uwaterloo.ca/) (April 17, 2019)
-- [SC'19](https://https://sc19.supercomputing.org/ ) (April 2, 2019)
+- [SC'19](https://sc19.supercomputing.org/ ) (April 2, 2019)
 - [HotCloud'19](https://www.usenix.org/conference/hotcloud19) (March 12, 2019)
 - [ICDCS'2019](https://theory.utdallas.edu/ICDCS2019/cfp.html) (January 12, 2019)
 - [ISCA'19](https://iscaconf.org/isca2019/index.html) (December 7, 2018)
