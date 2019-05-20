@@ -17,7 +17,7 @@ permalink: /conference/
 
 ### Past
 
-- [ATC'19](https://www.usenix.org/conference/atc19/technical-sessions) (January 10, 2019)
+- [ATC'19](https://www.usenix.org/conference/atc19/technical-sessions)
 - [ASPLOS'19](https://asplos-conference.org/programs/#session-overview)
 - [NSDI'19](https://www.usenix.org/conference/nsdi19)
 - [IPDPS'19](http://www.ipdps.org/ipdps2019/2019-advance-program.html)
