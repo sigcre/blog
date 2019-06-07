@@ -83,22 +83,24 @@ permalink: /reading_list/
 
 #### 大规模机器学习作业的调度 Scheduling for Deep Learning Clusters
 
+  - 《Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads》 (CoRR'19)[arXiv](https://arxiv.org/abs/1901.05758)
+  - 《Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools》 (CoRR'19)[arXiv](https://arxiv.org/abs/1903.11314)
+  - 《Tiresias: A GPU Cluster Manager for Distributed Deep Learning》（NSDI'19）[usenix](https://www.usenix.org/system/files/nsdi19-gu.pdf) [slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_gu.pdf)
   - 《Optimus: an efficient dynamic resource scheduler for deep learning
     clusters》（Eurosys'18）[acm](https://dl.acm.org/citation.cfm?id=3190517)[Optimus
-    Src](https://github.com/eurosys18-Optimus/Optimus)
-  - 《Scaling Distributed Machine Learning with the Parameter
-    Server》（OSDI'14）[usenix](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
+    Src](https://github.com/eurosys18-Optimus/Optimus) 
   - 《Litz: An Elastic Framework for High-Performance Distributed Machine
     Learning》（CMU-PDL-17-103，ATC'18）[CMU PDL TR
-    List](http://www.pdl.cmu.edu/Publications/pubs-tr.shtml)
-  - 《Project Adam: Building an Efficient and Scalable Deep Learning
-    Training
-    System》（OSDI'14）[usenix](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)
+    List](http://www.pdl.cmu.edu/Publications/pubs-tr.shtml) 
   - 《Gandiva: Introspective Cluster Scheduling for Deep
     Learning》（OSDI'18）[usenix](https://homes.cs.washington.edu/~patelp1/papers/gandiva-osdi18.pdf)
   - 《Topology-aware GPU scheduling for learning workloads in cloud
     environments》（SC'17）[acm](https://dl.acm.org/citation.cfm?id=3126933)
-  - 《Tiresias: A GPU Cluster Manager for Distributed Deep Learning》（NSDI'19）[usenix](https://www.usenix.org/system/files/nsdi19-gu.pdf) [slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_gu.pdf)
+  - 《Project Adam: Building an Efficient and Scalable Deep Learning
+    Training
+    System》（OSDI'14）[usenix](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)
+  - 《Scaling Distributed Machine Learning with the Parameter
+    Server》（OSDI'14）[usenix](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
   - [ A
     List](https://github.com/gaocegege/papers-notebook/labels/area%2Flarge-scale-ml%20)
 
