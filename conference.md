@@ -8,14 +8,13 @@ permalink: /conference/
 - [ICS'20](https://www.ics.org/2020) (CCF B) (Apr 1, 2020)
 - [ICCCN'20](http://www.icccn.org/icccn20/call-for-papers/index.html) (CCF C) (Mar 2, 2020)
 - [ICPP'20](https://jnamaral.github.io/icpp20/) (CCF B) (Mar 2, 2020)
+- [ICDCS'20](http://icdcs2020.sg/cfp.html) (CCF B) (Jan 6, 2020)
 - [CCGRID'20](http://cloudbus.org/ccgrid2020/) (CCF C) (Dec 10, 2019)
 - [ISPA'20](http://ispa2020.org/) (CCF C) (Nov 15, 2019)
 - [EuroSys'20](https://www.eurosys2020.org/) (CCF B) (Nov 4, 2019)
 - [SIGMETRICS'20](https://www.sigmetrics.org/sigmetrics2020/call_for_papers.html) (CCF B) (Oct 14, 2019)
 - [ICC'20](https://icc2020.ieee-icc.org/) (CCF C) (Oct 14, 2019)
 - [IPDPS'20](http://www.ipdps.org/ipdps2020/2020-call-for-papers.html) (CCF B) (Oct 7, 2019)
-- [ICCD'20](https://waset.org/conference/2020/04/paris/ICCD) (CCF B) (Sep 12, 2019)
-- [ICDCS'20](https://waset.org/conference/2020/02/bangkok/ICDCS) (CCF B) (Sep 12, 2019)
 - [NSDI'20](https://www.usenix.org/conference/nsdi20/call-for-papers) (CCF A) (Sep 12, 2019)
 
 ### Past
