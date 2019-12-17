@@ -6,9 +6,19 @@ permalink: /conference/
 
 ### Upcoming
 - [ICS'20](https://www.ics.org/2020) (CCF B) (Apr 1, 2020)
-- [ICCCN'20](http://www.icccn.org/icccn20/call-for-papers/index.html) (CCF C) (Mar 2, 2020)
+- [QRS'20](https://qrs20.techconf.org/) (CCF C) (Mar 8, 2020 - Jul 27, 2020, Vilnius, Lithuania)
+- [ICCCN'20](http://www.icccn.org/icccn20/call-for-papers/index.html) (CCF C) (Mar 2, 2020 - Aug 3, 2020, Hawaii, USA)
 - [ICPP'20](https://jnamaral.github.io/icpp20/) (CCF B) (Mar 2, 2020)
+- [SEKE'20](http://ksiresearch.org/seke/seke20.html) (CCF C) (Mar 1, 2020 - July 9, 2020, Pittsburgh, USA)
+- [Euro-Par'20](https://2020.euro-par.org/) (CCF C) (Feb 7, 2020 - Aug 24, 2020, Warsaw, Poland)
+- [FORTE'20](https://www.discotec.org/2020) (CCF C) (Feb 3, 2020 - Jun 15, 2020, Valletta, Malta)
+- [Compsac'20](https://ieeecompsac.computer.org/2020) (CCF C) (Jan 20, 2020 - Jul 13, 2020, Madrid, Spain)
+- [ATC'20](https://www.usenix.org/conference/atc20) (CCF A) (Jan 15, 2020 - Jul 15, 2020, Boston, USA)
 - [ICDCS'20](http://icdcs2020.sg/cfp.html) (CCF B) (Jan 6, 2020)
+- [Networking'20](https://networking.ifip.org/2020/) (CCF C) (Dec 31, 2020 - Jun 22, 2020, Paris, France)
+- [NPC'20](https://waset.org/network-and-parallel-computing-conference-in-may-2020-in-paris) (CCF C) (Dec 30, 2020 - May 14, 2020, Paris, France)
+
+### Past
 - [CCGRID'20](http://cloudbus.org/ccgrid2020/) (CCF C) (Dec 10, 2019)
 - [ISPA'20](http://ispa2020.org/) (CCF C) (Nov 15, 2019)
 - [EuroSys'20](https://www.eurosys2020.org/) (CCF B) (Nov 4, 2019)
@@ -16,9 +26,6 @@ permalink: /conference/
 - [ICC'20](https://icc2020.ieee-icc.org/) (CCF C) (Oct 14, 2019)
 - [IPDPS'20](http://www.ipdps.org/ipdps2020/2020-call-for-papers.html) (CCF B) (Oct 7, 2019)
 - [NSDI'20](https://www.usenix.org/conference/nsdi20/call-for-papers) (CCF A) (Sep 12, 2019)
-
-### Past
-
 - [ICSE'20](https://conf.researchr.org/track/icse-2020/icse-2020-papers) (Aug 23, 2019)
 - [SOCC'19](https://acmsocc.github.io/2019/) (June 3, 2019)
 - [Middleware'19](http://2019.middleware-conference.org/research.html)（May 10, 2019）
